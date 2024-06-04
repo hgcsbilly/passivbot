@@ -3,7 +3,7 @@
   exchange: binance
 
   # format YYYY-MM-DD
-  start_date: 2021-05-01
+  start_date: 2024-01-01
   // if end_date is "now", will use current date as end_date.
   end_date: now
 
@@ -23,7 +23,7 @@
   n_cpus: 3
   iters: 12000
 
-  starting_balance: 1000000
+  starting_balance: 1000
 
   # only futures supported
   market_type: futures
